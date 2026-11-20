@@ -1,0 +1,11 @@
+{
+  "name": "gta6-meme-entry",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "GTA 6 x make.fun meme entry for gta6-meme-x-01",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
